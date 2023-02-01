@@ -1,26 +1,27 @@
-Intro
+**Intro**
 
 Hi, I’m Chemist Mudavanhu, a full-stack software developer based in Harare, Zimbabwe
 
 
-About Me
+**About Me**
 
 I'm an experienced software developer with expertise in the design, development, and maintenance of software systems. Proficient in various platforms, languages, and frameworks. Able to effectively self-manage during independent projects and collaborate as part of a productive team.
 
 
-Employement History
+**Employement History**
 
 
-Midlands Construction
+*Midlands Construction*
 
 September 2018 to October 2020
 
 ➜ Software Developer
 
 ➜ Systems Analyst
+
   
 
-Zimbabwe Building Materials And Suppliers
+*Zimbabwe Building Materials And Suppliers*
 
 Jan 2021 to April 2021
 
@@ -28,7 +29,8 @@ Jan 2021 to April 2021
 
 ➜ Search Engine Optimiser
 
-Top Guard Holdings
+
+*Top Guard Holdings*
 
 May 2021 to August 2021
 
@@ -39,7 +41,8 @@ May 2021 to August 2021
 ➜ Web Developer
 
 
-Full-Stack Software Developer, Contitouch Technologies
+
+*Full-Stack Software Developer, Contitouch Technologies*
 
 September 2021 — Present, Harare
 
@@ -61,7 +64,7 @@ September 2021 — Present, Harare
 ➜ Create technical documentation for reference and reporting
 
 
-Skills
+**Skills**
 
 ➜ Laravel
 
@@ -75,7 +78,8 @@ Skills
 
 ➜ Linux/Unix
 
-Hobbies
+
+**Hobbies**
 
 ➜ Walking
 
@@ -84,16 +88,18 @@ Hobbies
 ➜ Music
 
 
-Languages
+
+**Languages**
 
 ➜ Shona
 
 ➜ English
 
 
-Projects
 
-Web Apps
+**Projects**
+
+*Web Apps*
 
 ➜ [HTFS Loan Management](https://online.htfs.co.zw/)
 
@@ -126,7 +132,7 @@ Web Apps
 ➜
 ➜
 
-WhatsApp ChatBots
+*WhatsApp ChatBots*
 
 ➜ [Hammer & Tongues Auction Support Option](https://wa.me/263788788051)
 
@@ -136,7 +142,8 @@ WhatsApp ChatBots
 
 ➜ [ContiCash Bureau De Change Support Option](https://wa.me/263788788045)
 
-Social Links
+
+*Social Links*
 
 ➜ [Twitter](https://twitter.com/chem_muda)
 
